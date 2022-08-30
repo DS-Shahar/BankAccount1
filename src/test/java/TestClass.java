@@ -11,7 +11,7 @@ public class TestClass {
     @Test
     public void testProps()
     {
-        BankAccount a = new BankAccount(100, -1000);
+        BankAccount a = new BankAccount(100);
         a.setOwner("Lisa");
         assertEquals(a.getOwner(), "Lisa");
     }
