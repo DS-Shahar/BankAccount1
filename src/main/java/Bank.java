@@ -32,7 +32,7 @@ class Bank
     for (int i = 0; i < accounts.length; i++)
     {
       if (accounts[i] == null) {
-        accounts[i] = new BankAccount(balance, 0);
+        accounts[i] = new BankAccount(balance);
         numAccounts++;
         return true;
       }  
