@@ -1,6 +1,6 @@
 # BankAccount1
 
-## See the two last slides:
+## Instructions are in the two last slides:
 [BankACcount](https://docs.google.com/presentation/d/1h2Da86x3tjDyWM2fkKlebI1pI-PJokj-SGubSjCwCsM/edit?usp=sharing)
 
 ## How to import into Eclipse
